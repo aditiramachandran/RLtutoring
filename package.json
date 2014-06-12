@@ -19,7 +19,7 @@
   "dependencies": {
     "logfmt": "~1.1.2",
     "express": "~4.4.3"
-  }
+  },
   "engines": {
     "nodes": "0.10.x"
   }
