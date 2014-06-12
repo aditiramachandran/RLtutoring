@@ -1,0 +1,26 @@
+{
+  "name": "young-reaches-8132",
+  "version": "0.0.0",
+  "description": "This is a cool app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:young-reaches-8132.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "aditi",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.4.3"
+  }
+  "engines": {
+    "nodes": "0.10.x"
+  }
+}
